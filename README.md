@@ -1,4 +1,0 @@
-fourk-repo
-==========
-
-Project Fourk
